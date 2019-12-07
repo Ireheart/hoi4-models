@@ -1,0 +1,61 @@
+# Wavefront MTL file
+# Creator: Ultimate Unwrap3D Pro (x64) v3.50.21
+# URL: http://www.unwrap3d.com
+# Time: Fri Mar 03 12:54:38 2017
+# num_materials: 6
+
+newmtl Tex_0038_0_dds
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+d 1.000000
+illum 2
+Ns 1.000000
+map_Kd Tex_0038_0out.tga
+
+newmtl Tex_0060_0_dds
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+d 1.000000
+illum 2
+Ns 1.000000
+map_Kd Tex_0060_0out.tga
+
+newmtl Tex_0064_0_dds
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+d 1.000000
+illum 2
+Ns 1.000000
+map_Kd Tex_0064_0out.tga
+
+newmtl Tex_0067_0_dds
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+d 1.000000
+illum 2
+Ns 1.000000
+map_Kd Tex_0067_0out.tga
+
+newmtl Tex_0071_0_dds
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+d 1.000000
+illum 2
+Ns 1.000000
+map_Kd Tex_0071_0out.tga
+
+newmtl Tex_0074_0_dds
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+d 1.000000
+illum 2
+Ns 1.000000
+map_Kd Tex_0074_0out.tga
+
+# num_materials: 6

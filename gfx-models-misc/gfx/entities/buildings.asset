@@ -1,0 +1,26 @@
+entity = {
+	name = "building_bunker"
+	pdxmesh = "building_bunker"
+
+	default_state = "idle"
+	state = { name = "idle"
+	}
+}
+
+entity = {
+	name = "building_bunker_destroyed"
+	pdxmesh = "building_bunker_destroyed"
+
+	locator = { name = "damage_locator_01"	position = { 0.0 1.1 -1.0 } }
+	locator = { name = "damage_locator_02"	position = { -1.7 0.1 -1.2 } }
+
+	locator = { name = "smoke_locator_01"	position = { -0.0 0.0 -0.0 } }
+
+	default_state = "idle"
+	state = { name = "idle"
+		event = { time = 0.0 node="smoke_locator_01" particle = "bunker_smoke_effect" }
+		event = { time = 0.1 node="damage_locator_01" particle = "building_damaged_particle" }
+		event = { time = 0.1 node="damage_locator_02" particle = "building_damaged_particle" }
+	}
+
+}

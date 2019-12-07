@@ -1,0 +1,7 @@
+objectTypes = {
+
+	pdxmesh = {
+		name = "xenocrusher_mesh"
+		file = "gfx/models/units/silverknight/aliens/xenocrusher/xenocrusher.mesh"
+	}
+}

@@ -1,0 +1,39 @@
+objectTypes = {
+
+### Vehicles ###
+	
+	# French
+	pdxmesh = {
+		name = "panhard_mesh" # Panhard Light Vehicle
+		file = "gfx/models/units/silverknight/ww2/vehicles/panhard/panhard-165-ac.mesh"
+	}
+	# German
+	pdxmesh = {
+		name = "wespe_mesh" # Wespe Mobile Artillery Vehicle
+		file = "gfx/models/units/silverknight/ww2/vehicles/wespe/wespe.mesh"
+	}
+	pdxmesh = {
+		name = "panther_mesh" # Panther Vehicle
+		file = "gfx/models/units/silverknight/ww2/vehicles/panther/panther.mesh"
+	}
+	pdxmesh = {
+		name = "ostwind_mesh" # Ostwind Vehicle
+		file = "gfx/models/units/silverknight/ww2/vehicles/ostwind/ostwind.mesh"
+	}
+	pdxmesh = {
+		name = "marder3_mesh" # Marder 3 Vehicle
+		file = "gfx/models/units/silverknight/ww2/vehicles/marder3/marder3.mesh"
+	}
+	pdxmesh = {
+		name = "elefant_mesh" # Elefant Vehicle
+		file = "gfx/models/units/silverknight/ww2/vehicles/elefant/elefant.mesh"
+	}
+	pdxmesh = {
+		name = "flakpanzer_mesh" # Flankpanzer Vehicle
+		file = "gfx/models/units/silverknight/ww2/vehicles/flakpanzer/flakpanzer.mesh"
+	}
+	pdxmesh = {
+		name = "puma_mesh" # Puma Vehicle
+		file = "gfx/models/units/silverknight/ww2/vehicles/puma/puma.mesh"
+	}
+}

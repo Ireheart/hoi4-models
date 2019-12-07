@@ -1,0 +1,566 @@
+# Blender MTL File: 'None'
+# Material Count: 47
+
+newmtl at1#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl at2#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl at3#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl at4#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl body#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl cover1#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl detail1#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl detail2#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl detail3#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl engine#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl enumerator#number1.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\ger\1.dds
+map_d tex\\ger\\1.dds
+
+newmtl enumerator#number2.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\ger\2.dds
+map_d tex\\ger\\2.dds
+
+newmtl enumerator#number3.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\ger\3.dds
+map_d tex\\ger\\3.dds
+
+newmtl gun#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl gun_rot#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl mantlet#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl mgun#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl trackl#track1.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\track_t26.dds
+map_d tex\\track_t26.dds
+
+newmtl trackl#track2.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\track_t26.dds
+map_d tex\\track_t26.dds
+
+newmtl trackl#track3.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\track_t26.dds
+map_d tex\\track_t26.dds
+
+newmtl trackl#track4.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\track_t26.dds
+map_d tex\\track_t26.dds
+
+newmtl trackl#track5.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\track_t26.dds
+map_d tex\\track_t26.dds
+
+newmtl trackl#track6.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\track_t26.dds
+map_d tex\\track_t26.dds
+
+newmtl trackr#track1.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\track_t26.dds
+map_d tex\\track_t26.dds
+
+newmtl trackr#track2.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\track_t26.dds
+map_d tex\\track_t26.dds
+
+newmtl trackr#track3.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\track_t26.dds
+map_d tex\\track_t26.dds
+
+newmtl trackr#track4.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\track_t26.dds
+map_d tex\\track_t26.dds
+
+newmtl trackr#track5.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\track_t26.dds
+map_d tex\\track_t26.dds
+
+newmtl trackr#track6.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\track_t26.dds
+map_d tex\\track_t26.dds
+
+newmtl wheell1#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl wheell2#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl wheell3#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl wheell4#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl wheell5#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl wheell6#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl wheell7#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl wheell8#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl wheelr1#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl wheelr2#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl wheelr3#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl wheelr4#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl wheelr5#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl wheelr6#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl wheelr7#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl wheelr8#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl wheelsl#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\\marder 3h.dds
+map_d tex\\marder 3h.dds
+
+newmtl wheelsr#marder.mtl.000
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tex\\marder 3h.dds
+map_d tex\\marder 3h.dds

@@ -1,0 +1,12 @@
+objectTypes = {
+
+	pdxmesh = {
+		name = "lancelot_mesh"
+		file = "gfx/models/units/silverknight/codegeass/lancelot/lancelot.mesh"
+	}
+
+	pdxmesh = {
+		name = "lancelot2_mesh"
+		file = "gfx/models/units/silverknight/codegeass/lancelot/lancelot_nowings.mesh"
+	}
+}

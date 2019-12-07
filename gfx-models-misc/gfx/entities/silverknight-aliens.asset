@@ -1,0 +1,21 @@
+
+entity = {
+	name = "REK_infantry_entity"
+	pdxmesh = "xenocrusher_mesh"
+		
+	scale = 0.01
+}
+
+entity = {
+	name = "REK_infantry_2_entity"
+	pdxmesh = "xenocrusher_mesh"
+		
+	scale = 0.01
+}
+
+entity = {
+	name = "REK_infantry_3_entity"
+	pdxmesh = "xenocrusher_mesh"
+		
+	scale = 0.01
+}

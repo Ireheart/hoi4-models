@@ -1,0 +1,21 @@
+
+entity = {
+	name = "REP_infantry_entity"
+	pdxmesh = "lancelot2_mesh"
+		
+	scale = 0.1
+}
+
+entity = {
+	name = "REP_infantry_2_entity"
+	pdxmesh = "lancelot2_mesh"
+		
+	scale = 0.1
+}
+
+entity = {
+	name = "REP_infantry_3_entity"
+	pdxmesh = "lancelot2_mesh"
+		
+	scale = 0.1
+}
