@@ -1,0 +1,14 @@
+
+entity = {
+	name = "REP_light_armor_entity"
+	pdxmesh = "cannon_mesh"
+		
+	scale = 3.6
+}
+
+entity = {
+	name = "REP_medium_armor_entity"
+	pdxmesh = "cannon_mesh"
+		
+	scale = 3.6
+}

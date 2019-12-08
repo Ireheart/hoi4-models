@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asset>
+    <contributor>
+      <author>Blender User</author>
+      <authoring_tool>Blender 2.81.16 commit date:2019-11-20, commit time:14:27, hash:26bd5ebd42e3</authoring_tool>
+    </contributor>
+    <created>2019-12-07T19:48:35</created>
+    <modified>2019-12-07T19:48:35</modified>
+    <unit name="meter" meter="1"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_effects>
+    <effect id="weapon_spear_1-effect">
+      <profile_COMMON>
+        <newparam sid="weapon_spear_1_dds-surface">
+          <surface type="2D">
+            <init_from>weapon_spear_1_dds</init_from>
+          </surface>
+        </newparam>
+        <newparam sid="weapon_spear_1_dds-sampler">
+          <sampler2D>
+            <source>weapon_spear_1_dds-surface</source>
+          </sampler2D>
+        </newparam>
+        <technique sid="common">
+          <lambert>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <diffuse>
+              <texture texture="weapon_spear_1_dds-sampler" texcoord="UVMap"/>
+            </diffuse>
+            <index_of_refraction>
+              <float sid="ior">1.45</float>
+            </index_of_refraction>
+          </lambert>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_images>
+    <image id="weapon_spear_1_dds" name="weapon_spear_1_dds">
+      <init_from>weapon_spear_1.dds</init_from>
+    </image>
+  </library_images>
+  <library_materials>
+    <material id="weapon_spear_1-material" name="weapon_spear_1">
+      <instance_effect url="#weapon_spear_1-effect"/>
+    </material>
+  </library_materials>
+  <library_geometries>
+    <geometry id="MODELS_bin_018_poly000-mesh" name="MODELS_bin_018:poly000">
+      <mesh>
+        <source id="MODELS_bin_018_poly000-mesh-positions">
+          <float_array id="MODELS_bin_018_poly000-mesh-positions-array" count="66">-1.485938 -0.105078 -0.374219 -1.476172 -0.112891 -0.412891 -1.701953 -0.07070297 -0.402735 -1.674219 -0.08476597 -0.512891 -1.477734 -0.152344 -0.403906 -1.681641 -0.193359 -0.478906 -1.710156 -0.18125 -0.365625 -2.194923 -0.128516 -0.560547 -1.45 -0.107422 -0.416016 -1.391797 -0.149609 -0.381641 -1.453125 -0.160156 -0.403125 -1.465625 -0.148828 -0.34961 -1.401563 -0.140625 -0.341797 -1.463281 -0.09531199 -0.3625 -1.398828 -0.101953 -0.351563 -1.390234 -0.1101559 -0.390625 1.180078 -0.05781298 0.254688 1.178516 -0.104688 0.264844 1.167969 -0.09140598 0.30625 1.174609 -0.07968795 0.277344 1.16875 -0.04414099 0.299219 -1.487109 -0.143359 -0.364063</float_array>
+          <technique_common>
+            <accessor source="#MODELS_bin_018_poly000-mesh-positions-array" count="22" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="MODELS_bin_018_poly000-mesh-normals">
+          <float_array id="MODELS_bin_018_poly000-mesh-normals-array" count="69">-0.2213991 0.8605709 0.4586942 0.4033955 0.5553007 -0.7272643 -0.1497166 0.958377 0.243102 0.2292943 0.5313133 -0.8155553 0.05168437 -0.852237 -0.5205968 0.1645925 -0.8343585 -0.5260755 -0.1477975 -0.5097985 0.8475031 -0.3290942 -0.656679 -0.6785791 0.03240144 0.5031858 -0.8635706 0.2251163 -0.8581372 -0.4614362 0.3092056 -0.8399143 -0.4460224 -0.3339852 -0.5538007 0.7627311 -0.094581 -0.5131016 0.853101 -0.2709339 0.8276301 0.491552 -0.07699233 0.8525741 0.5169041 0.2321115 0.554826 -0.7989321 0.01231789 0.5165506 -0.8561681 0.8424002 0.1726072 -0.5104593 0.6760247 -0.7129663 0.1861979 0.9722386 0.02160054 0.2329925 -0.02999806 0.9756948 -0.2170709 -0.2522919 -0.5108945 0.8217881 -0.2414274 -0.7871547 -0.5675389</float_array>
+          <technique_common>
+            <accessor source="#MODELS_bin_018_poly000-mesh-normals-array" count="23" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="MODELS_bin_018_poly000-mesh-map-0">
+          <float_array id="MODELS_bin_018_poly000-mesh-map-0-array" count="240">0.2002 1 0.2715 0.999 0.2050999 0.7578 0.2050999 0.7578 0.2715 0.999 0.4287 0.7783 0.2715 0.999 0.1963 1.001 0.4287 0.7783 0.4287 0.7783 0.1963 1.001 0.2012 0.7559 0.1963 1.001 0.004899978 0.7568 0.2012 0.7559 0.2012 0.7559 0.004899978 0.7568 0.209 0.1016 0.004899978 0.7568 0.2050999 0.7578 0.209 0.1016 0.209 0.1016 0.2050999 0.7578 0.4287 0.7783 0.9922 0.02339994 0.7188 0.0654 0.7188 0.02339994 0.7188 0.02339994 0.7188 0.0654 0.4434 0.02339994 0.7188 0.0654 0.4434 0.06639999 0.4434 0.02339994 0.4434 0.02339994 0.4434 0.06639999 0.7188 0.02249997 0.4434 0.06639999 0.7188 0.0654 0.7188 0.02249997 0.7188 0.02249997 0.7188 0.0654 0.9922 0.06639999 0.7188 0.0654 0.9922 0.9902 0.9922 0.06639999 0.9922 0.06639999 0.9922 0.9902 0.7188 0.0654 0.9922 0.9902 0.7188 0.9902 0.7188 0.0654 0.7188 0.0654 0.7188 0.9902 0.4443 0.9902 0.7188 0.9902 0.7188 0.9902 0.4443 0.9902 0.4443 0.9902 0.7188 0.9902 0.7188 0.9902 0.7188 0.9902 0.9922 0.9902 0.7188 0.9902 0.7188 0.9902 0.9922 0.9902 0.7188 0.0654 0.1963 1.001 0.1387 1 0.004899978 0.7568 0.004899978 0.7568 0.1387 1 0.2002 1 0.9922 0.01369994 0.7188 0.02339994 0.7188 0.01369994 0.7188 0.01369994 0.7188 0.02339994 0.4434 0.02339994 0.7188 0.01369994 0.4434 0.02339994 0.4434 0.01269996 0.4434 0.01269996 0.4434 0.02339994 0.7188 0.01269996 0.4434 0.02339994 0.7188 0.02249997 0.7188 0.01269996 0.7188 0.01269996 0.7188 0.02249997 0.9922 0.01369994 0.7188 0.02249997 0.9922 0.02339994 0.9922 0.01369994 0.9922 0.01369994 0.9922 0.02339994 0.7188 0.02339994 0.7188 0.0654 0.4434 0.06639999 0.4443 0.9902 0.4443 0.9902 0.4434 0.06639999 0.7188 0.0654 0.7188 0.02249997 0.9922 0.06639999 0.9922 0.02339994 0.9922 0.02339994 0.9922 0.06639999 0.7188 0.0654 0.004899978 0.7568 0.2002 1 0.2050999 0.7578 0.7188 0.9902 0.7188 0.0654 0.4443 0.9902 0.7188 0.9902 0.9922 0.9902 0.7188 0.9902 0.209 0.1016 0.4287 0.7783 0.2012 0.7559</float_array>
+          <technique_common>
+            <accessor source="#MODELS_bin_018_poly000-mesh-map-0-array" count="120" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="MODELS_bin_018_poly000-mesh-vertices">
+          <input semantic="POSITION" source="#MODELS_bin_018_poly000-mesh-positions"/>
+        </vertices>
+        <triangles material="weapon_spear_1-material" count="40">
+          <input semantic="VERTEX" source="#MODELS_bin_018_poly000-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#MODELS_bin_018_poly000-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#MODELS_bin_018_poly000-mesh-map-0" offset="2" set="0"/>
+          <p>0 0 0 1 1 1 2 2 2 2 2 3 1 1 4 3 3 5 1 1 6 4 4 7 3 3 8 3 3 9 4 4 10 5 5 11 4 4 12 6 6 13 5 5 14 5 5 15 6 6 16 7 7 17 6 6 18 2 2 19 7 7 20 7 7 21 2 2 22 3 3 23 8 8 24 9 9 25 10 10 26 10 10 27 9 9 28 11 11 29 9 9 30 12 12 31 11 11 32 11 11 33 12 12 34 13 13 35 12 12 36 14 14 37 13 13 38 13 13 39 14 14 40 15 15 41 14 14 42 16 16 43 15 15 44 15 15 45 16 16 46 9 9 47 16 16 48 17 17 49 9 9 50 9 9 51 17 17 52 18 18 53 17 17 54 19 19 55 18 18 56 18 18 57 19 19 58 20 20 59 19 19 60 16 16 61 20 20 62 20 20 63 16 16 64 14 14 65 4 4 66 21 21 67 6 6 68 6 6 69 21 21 70 0 0 71 1 1 72 10 22 73 4 4 74 4 4 75 10 22 76 11 11 77 4 4 78 11 11 79 21 21 80 21 21 81 11 11 82 0 0 83 11 11 84 13 13 85 0 0 86 0 0 87 13 13 88 1 1 89 13 13 90 8 8 91 1 1 92 1 1 93 8 8 94 10 22 95 14 14 96 12 12 97 18 18 98 18 18 99 12 12 100 9 9 101 13 13 102 15 15 103 8 8 104 8 8 105 15 15 106 9 9 107 6 6 108 0 0 109 2 2 110 20 20 111 14 14 112 18 18 113 17 17 114 16 16 115 19 19 116 7 7 117 3 3 118 5 5 119</p>
+        </triangles>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="MODELS_bin_018_poly000" name="MODELS_bin_018:poly000" type="NODE">
+        <matrix sid="transform">0.05058482 -2.517931 0.03388604 -0.2306621 2.43722 0.05747844 0.6327205 -0.01587939 -0.6333089 0.02008273 2.437662 0.2768837 0 0 0 1</matrix>
+        <instance_geometry url="#MODELS_bin_018_poly000-mesh" name="MODELS_bin_018:poly000">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="weapon_spear_1-material" target="#weapon_spear_1-material">
+                <bind_vertex_input semantic="UVMap" input_semantic="TEXCOORD" input_set="0"/>
+              </instance_material>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Scene"/>
+  </scene>
+</COLLADA>
