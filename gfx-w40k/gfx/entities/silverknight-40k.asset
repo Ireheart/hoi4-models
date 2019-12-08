@@ -1,0 +1,13 @@
+entity = {
+	name = "REP_infantry_entity"
+	pdxmesh = "cadian_mesh"
+		
+	scale = 0.1
+}
+
+entity = {
+	name = "CIS_infantry_entity"
+	pdxmesh = "genestealer_mesh"
+		
+	scale = 1.6
+}
