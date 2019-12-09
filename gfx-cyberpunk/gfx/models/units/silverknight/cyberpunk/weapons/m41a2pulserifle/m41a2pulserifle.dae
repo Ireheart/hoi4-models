@@ -5,8 +5,8 @@
       <author>Blender User</author>
       <authoring_tool>Blender 2.81.16 commit date:2019-11-20, commit time:14:27, hash:26bd5ebd42e3</authoring_tool>
     </contributor>
-    <created>2019-12-08T00:50:13</created>
-    <modified>2019-12-08T00:50:13</modified>
+    <created>2019-12-08T22:16:28</created>
+    <modified>2019-12-08T22:16:28</modified>
     <unit name="meter" meter="1"/>
     <up_axis>Z_UP</up_axis>
   </asset>
@@ -96,7 +96,7 @@
   <library_visual_scenes>
     <visual_scene id="Scene" name="Scene">
       <node id="M41a_2_Pulse_Rifle" name="M41a 2 Pulse Rifle" type="NODE">
-        <matrix sid="transform">-6 -8.54579e-14 -5.24537e-7 0 -5.24537e-7 9.77524e-7 6 -1.196233 0 6 -9.77524e-7 0.7320967 0 0 0 1</matrix>
+        <matrix sid="transform">5 0 0 0 0 -8.14603e-7 -5 0.4155148 0 5 -8.14603e-7 0.1074231 0 0 0 1</matrix>
         <instance_geometry url="#M41a_2_Pulse_Rifle-mesh" name="M41a 2 Pulse Rifle">
           <bind_material>
             <technique_common>
