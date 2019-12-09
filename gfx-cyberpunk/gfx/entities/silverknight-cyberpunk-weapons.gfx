@@ -1,0 +1,15 @@
+objectTypes = {
+
+	pdxmesh = {
+		name = "weapon_m41a2pulserifle_mesh"
+		file = "gfx/models/units/silverknight/cyberpunk/weapons/m41a2pulserifle/m41a2pulserifle.mesh"
+	}
+	pdxmesh = {
+		name = "weapon_trek47rifle_mesh"
+		file = "gfx/models/units/silverknight/cyberpunk/weapons/trek47rifle/trek47rifle.mesh"
+	}
+	pdxmesh = {
+		name = "weapon_trek13shotgun_mesh"
+		file = "gfx/models/units/silverknight/cyberpunk/weapons/trek13shotgun/trek13shotgun.mesh"
+	}
+}

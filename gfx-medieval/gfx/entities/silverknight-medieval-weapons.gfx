@@ -1,0 +1,19 @@
+objectTypes = {
+
+	pdxmesh = {
+		name = "weapon_steelmace_mesh"
+		file = "gfx/models/units/silverknight/medieval/weapons/mace/steelmace.mesh"
+	}
+	pdxmesh = {
+		name = "weapon_two_hand_sword_mesh"
+		file = "gfx/models/units/silverknight/medieval/weapons/two_hand_sword/infantry_weapon_two_hand_sword.mesh"
+	}
+	pdxmesh = {
+		name = "weapon_spear_mesh"
+		file = "gfx/models/units/silverknight/medieval/weapons/spear/spear_light.mesh"
+	}
+	pdxmesh = {
+		name = "weapon_longbow_mesh"
+		file = "gfx/models/units/silverknight/medieval/weapons/longbow/longbow.mesh"
+	}
+}

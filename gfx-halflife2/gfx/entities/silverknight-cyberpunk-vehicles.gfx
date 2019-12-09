@@ -1,0 +1,23 @@
+objectTypes = {
+
+### Mechs ###
+	pdxmesh = {
+		name = "mech_biped_mesh"
+		file = "gfx/models/units/silverknight/cyberpunk/vehicles/mechbiped/mechbiped.mesh"
+	}
+
+	pdxmesh = {
+		name = "mech_devastator_mesh"
+		file = "gfx/models/units/silverknight/cyberpunk/vehicles/mechdevastator/mechdevastator.mesh"
+	}
+
+	pdxmesh = {
+		name = "mech_spidertank_mesh"
+		file = "gfx/models/units/silverknight/cyberpunk/vehicles/mechspidertank/mechspidertank.mesh"
+	}
+
+	pdxmesh = {
+		name = "mech_turret_mesh"
+		file = "gfx/models/units/silverknight/cyberpunk/vehicles/mechturret/mechturret.mesh"
+	}
+}

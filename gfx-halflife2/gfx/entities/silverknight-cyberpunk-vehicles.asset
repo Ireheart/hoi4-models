@@ -1,0 +1,56 @@
+
+entity = {
+	name = "REP_light_armor_entity"
+	pdxmesh = "mech_biped_mesh"
+		
+	scale = 0.07
+}
+
+entity = {
+	name = "REP_medium_armor_entity"
+	pdxmesh = "mech_biped_mesh"
+		
+	scale = 0.07
+}
+
+entity = {
+	name = "REP_light_armor_entity"
+	pdxmesh = "mech_devastator_mesh"
+		
+	scale = 0.07
+}
+
+entity = {
+	name = "REP_medium_armor_entity"
+	pdxmesh = "mech_devastator_mesh"
+		
+	scale = 0.07
+}
+
+entity = {
+	name = "REP_light_armor_entity"
+	pdxmesh = "mech_spidertank_mesh"
+		
+	scale = 0.03
+}
+
+entity = {
+	name = "REP_medium_armor_entity"
+	pdxmesh = "mech_spidertank_mesh"
+		
+	scale = 0.03
+}
+
+entity = {
+	name = "REP_light_armor_entity"
+	pdxmesh = "mech_turret_mesh"
+		
+	scale = 0.03
+}
+
+entity = {
+	name = "REP_medium_armor_entity"
+	pdxmesh = "mech_turret_mesh"
+		
+	scale = 0.03
+}

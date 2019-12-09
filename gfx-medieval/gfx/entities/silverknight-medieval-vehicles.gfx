@@ -1,0 +1,33 @@
+objectTypes = {
+
+### Ships
+	pdxmesh = {
+		name = "generic_battleship_mesh"
+		file = "gfx/models/units/silverknight/medieval/ships/galleon/galleon.mesh"
+	}
+
+	pdxmesh = {
+		name = "generic_carrier_mesh"
+		file = "gfx/models/units/silverknight/medieval/ships/galleon/galleon.mesh"
+	}
+
+	pdxmesh = {
+		name = "generic_freighter_mesh"
+		file = "gfx/models/units/silverknight/medieval/ships/galleon/galleon.mesh"
+	}
+
+	pdxmesh = {
+		name = "generic_heavy_cruiser_mesh"
+		file = "gfx/models/units/silverknight/medieval/ships/galleon/galleon.mesh"
+	}
+
+	pdxmesh = {
+		name = "generic_light_cruiser_mesh"
+		file = "gfx/models/units/silverknight/medieval/ships/galleon/galleon.mesh"
+	}
+### Vehicles ###
+	pdxmesh = {
+		name = "cannon_mesh"
+		file = "gfx/models/units/silverknight/medieval/vehicles/cannon/cannon.mesh"
+	}
+}

@@ -1,0 +1,16 @@
+objectTypes = {
+
+### Units ###
+	
+	# Imperials
+	pdxmesh = {
+		name = "cadian_mesh"
+		file = "gfx/models/units/silverknight/w40k/units/cadian/cadian.mesh"
+	}
+
+	# Tyranids
+	pdxmesh = {
+		name = "genestealer_mesh"
+		file = "gfx/models/units/silverknight/w40k/units/genestealer/genestealer.mesh"
+	}
+}
