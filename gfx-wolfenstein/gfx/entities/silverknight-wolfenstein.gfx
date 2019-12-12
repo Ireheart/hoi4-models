@@ -1,0 +1,16 @@
+objectTypes = {
+
+### Units ###
+	
+	# Super Soldier
+	pdxmesh = {
+		name = "supersoldat60_mesh"
+		file = "gfx/models/units/silverknight/wolfenstein/units/supersoldat60/supersoldat60.mesh"
+	}
+
+	# Knight
+	pdxmesh = {
+		name = "wolf_knight_mesh"
+		file = "gfx/models/units/silverknight/wolfenstein/units/wolf_knight/wolf_knight.mesh"
+	}
+}

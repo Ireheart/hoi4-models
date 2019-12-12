@@ -1,0 +1,13 @@
+#entity = {
+#	name = "REP_infantry_entity"
+#	pdxmesh = "supersoldat60_mesh"
+#		
+#	scale = 0.1
+#}
+
+entity = {
+	name = "REP_infantry_entity"
+	pdxmesh = "wolf_knight_mesh"
+		
+	scale = 0.1
+}
